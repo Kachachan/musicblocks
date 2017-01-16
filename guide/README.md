@@ -138,8 +138,9 @@ frequency, the octave is ignored.
 Note that the pitch name can also be specified using a *Text* block. 
 
 <img src='https://rawgithub.com/walterbender/musicblocks/master/charts/KeyboardChart.svg'/>
-<img src='https://rawgithub.com/walterbender/musicblocks/master/charts/MalletChart.svg'/>
-Please refer to the above charts for a visual representation of where notes are located on a keyboard or staff.
+Please refer to the above chart for a visual representation of where notes are located on a keyboard or staff.
+
+Click [here](https://rawgithub.com/walterbender/musicblocks/master/charts/MalletChart.svg) for a Mallet Bell version of the chart, representing higher notes.
 
 <a name="CHORDS">
 ### 2.3 Chords
